@@ -10,6 +10,8 @@
 
 You are the customer, not the product. What this means…
 
+[Code of Ethics](codeOFEthics.md)
+
 ### For All Users
 
 - You own your content, you just give us the right to display it on our site. This means unlike some other sites out there we give you certain rights.
