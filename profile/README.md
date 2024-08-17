@@ -10,7 +10,7 @@
 
 You are the customer, not the product. What this means…
 
-[Code of Ethics](codeOFEthics.md)
+[Code of Ethics](codeOfEthics.md)
 
 ### For All Users
 
