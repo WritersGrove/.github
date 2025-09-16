@@ -128,21 +128,22 @@ We comply with the Digital Millennium Copyright Act (DMCA). Our process is desig
 
 ```mermaid
 flowchart TD
-    A[DMCA Complaint Received] --> B[Content Locked & Author Notified]
-    B --> C{Author's Choice}
-    C -->|Delete| D[Content Permanently Removed]
-    C -->|Modify| E[Content Updated & Reviewed]
+    A[DMCA Complaint Received] --> B[Content Locked + Author Notified]
+    B --> C{Author Choice}
+    C -->|Delete| D[Content Removed]
+    C -->|Modify| E[Content Updated]
     C -->|Contest| F[Counter-Notice Filed]
-    F --> G[Complainant Notified of Counter-Notice]
-    G --> H{Complainant Response within 14 Days?}
-    H -->|Withdraws or No Response| I[Content Reinstated]
+    F --> G[Complainant Notified]
+    G --> H{Response in 14 Days?}
+    H -->|No Response| I[Content Reinstated]
+    H -->|Withdraws| I[Content Reinstated]
     H -->|Continues| J[Author Notified Again]
-    J --> K{Author's Final Choice}
+    J --> K{Author Final Choice}
     K -->|Withdraw| D
     K -->|Maintain| L[Complainant Must Obtain Court Order]
-    L -->|Court Order Provided| D
-    L -->|No Court Order| I
-
+    L -->|Court Order| D
+    L -->|No Order| I
+```
 
 ---
 
@@ -163,4 +164,7 @@ Email: **privacy@writersgrove.net**
 We may update this Privacy Policy. Significant changes will be announced by email or on the site.
 
 ---
+
+```
+
 ```
