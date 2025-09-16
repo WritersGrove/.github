@@ -11,7 +11,7 @@ Writers Grove (“we,” “our,” “us”) is committed to protecting your pr
 Writers Grove is a **U.S.-based company located in Michigan**. Our servers are located in Ohio.  
 We do **not** market to, advertise to, or actively solicit customers in the **UK, EU, or Canada**. We do not recognize those jurisdictions as having authority over us.
 
-That said, we recognize that frameworks such as **GDPR (EU/UK)**, **UK Data Protection Act**, **Canada’s PIPEDA**, and **California’s CCPA** are **best practices** for protecting consumers. While we are under **no legal obligation** to follow those frameworks, we voluntarily align our practices with their principles where reasonable, in the interest of transparency and user trust.
+That said, we recognize frameworks such as **GDPR (EU/UK)**, **UK Data Protection Act**, **Canada’s PIPEDA**, and **California’s CCPA** as **best practices** for protecting consumers. While we are under **no legal obligation** to follow those frameworks, we voluntarily align our practices with their principles where reasonable, in the interest of transparency and user trust.
 
 By using Writers Grove, you acknowledge that the company is based in the United States, governed by U.S. law (specifically the laws of Michigan), and that any legal disputes must be resolved under U.S. jurisdiction.
 
@@ -41,6 +41,7 @@ By using Writers Grove, you acknowledge that the company is based in the United 
 
 - **Service Providers**: Stripe, PayPal, AWS, Google Ads.
 - **Legal Authorities**: When required by U.S. law, valid DMCA requests, or law enforcement.
+  > Law enforcement may contact us at **support@writersgrove.net**.
 - **Community Reporting**: Complaint counts (10% warnings, 25% shadow bans) may be visible to authors.
 
 We do **not** sell your personal data.
@@ -84,87 +85,3 @@ Writers Grove is not for users under **13**. Accounts found to be underage will 
 Your data is processed in the United States.
 
 ---
-
-## 9. DMCA Complaints
-
-We comply with the Digital Millennium Copyright Act (DMCA). Our process is designed to be transparent and fair for both copyright holders and creators, following a model similar to YouTube’s.
-
-### DMCA Process
-
-1. **Initial Takedown**
-
-   - When we receive a valid DMCA complaint, the reported content will be **immediately locked** (unavailable to the public).
-   - The author will be notified of the complaint and the reason provided by the complainant.
-
-2. **Author Options**  
-   The author may then choose one of the following:
-
-   - **Delete** the content permanently.
-   - **Modify** the content to address the complaint.
-   - **Contest** the complaint by filing a counter-notice.
-
-3. **Counter-Notice Procedure**
-
-   - If a counter-notice is filed, we will notify the original complainant with the author’s response.
-   - The complainant then has **14 days** to either withdraw the complaint or pursue legal action.
-   - If the complainant withdraws or does not respond within 14 days, the content will be **reinstated**.
-
-4. **If the Complainant Continues**
-   - If the complainant insists on the takedown, the author will be notified and given a final choice:
-     - **Withdraw** the content permanently.
-     - **Maintain** the content and proceed to legal resolution.
-   - At this stage, the complainant will need to provide a valid **court order** for the content to remain locked or permanently removed.
-
-### Notes
-
-- Abuse of the DMCA process (false or malicious claims) may result in suspension of the complainant’s ability to file future claims.
-- Repeated copyright violations by an author may result in account suspension or termination, as required by the DMCA.
-- All DMCA notices and counter-notices must comply with the requirements of **17 U.S.C. § 512**.
-
-**Contact for DMCA Notices**:
-
-- Email: **dmca@writersgrove.net**
-- Mail: Writers Grove, P.O. BOX 222, Brooklyn, MI 49230, USA
-
-```mermaid
-flowchart TD
-    A[DMCA Complaint Received] --> B[Content Locked + Author Notified]
-    B --> C{Author Choice}
-    C -->|Delete| D[Content Removed]
-    C -->|Modify| E[Content Updated]
-    C -->|Contest| F[Counter-Notice Filed]
-    F --> G[Complainant Notified]
-    G --> H{Response in 14 Days?}
-    H -->|No Response| I[Content Reinstated]
-    H -->|Withdraws| I[Content Reinstated]
-    H -->|Continues| J[Author Notified Again]
-    J --> K{Author Final Choice}
-    K -->|Withdraw| D
-    K -->|Maintain| L[Complainant Must Obtain Court Order]
-    L -->|Court Order| D
-    L -->|No Order| I
-```
-
----
-
-## 10. Contact Information
-
-Writers Grove
-P.O. BOX 222
-Brooklyn, MI 49230
-United States
-
-Phone: **1-888-836-5902**
-Email: **privacy@writersgrove.net**
-
----
-
-## 11. Changes to this Policy
-
-We may update this Privacy Policy. Significant changes will be announced by email or on the site.
-
----
-
-```
-
-```

@@ -41,6 +41,7 @@ All disputes will be governed by the laws of the State of Michigan, United State
 - **Free Tier**: Free users are supported by advertising revenue. Ads may be shown on free-tier pages.
 - **Paid Tier**: Paid authors keep 100% of their monetization (ads, tips, Stripe, PayPal).
 - **Refunds**: We do not provide prorated refunds. You may cancel anytime and retain access until the end of your billing period.
+- **Billing Questions**: All billing or payout questions should be directed to **billing@writersgrove.net**.
 
 ### Chargebacks, Refunds, and Account Suspension
 
@@ -83,6 +84,7 @@ We take chargebacks very seriously because they impose costs and legal risks on 
 - Writers Grove is designed as a platform for free expression. We do **not** actively moderate content beyond what is legally required.
 - Content moderation occurs in three ways:
   1. **Legal Compliance**: DMCA notices, valid court orders, or law enforcement requests.
+     > Law enforcement may contact us at **support@writersgrove.net**.
   2. **Community Complaints**: Users may flag content. Complaints are aggregated and acted upon at thresholds.
   3. **Automatic Rules**: Certain complaint categories trigger automatic action.
 
@@ -150,13 +152,73 @@ To the fullest extent permitted by law:
 
 ---
 
-## 12. Changes to These Terms
+## 12. DMCA Complaints
+
+We comply with the Digital Millennium Copyright Act (DMCA). Our process is designed to be transparent and fair for both copyright holders and creators, following a model similar to YouTube’s.
+
+### DMCA Process
+
+1. **Initial Takedown**
+
+   - When we receive a valid DMCA complaint, the reported content will be **immediately locked** (unavailable to the public).
+   - The author will be notified of the complaint and the reason provided by the complainant.
+
+2. **Author Options**  
+   The author may then choose one of the following:
+
+   - **Delete** the content permanently.
+   - **Modify** the content to address the complaint.
+   - **Contest** the complaint by filing a counter-notice.
+
+3. **Counter-Notice Procedure**
+
+   - If a counter-notice is filed, we will notify the original complainant with the author’s response.
+   - The complainant then has **14 days** to either withdraw the complaint or pursue legal action.
+   - If the complainant withdraws or does not respond within 14 days, the content will be **reinstated**.
+
+4. **If the Complainant Continues**
+   - If the complainant insists on the takedown, the author will be notified and given a final choice:
+     - **Withdraw** the content permanently.
+     - **Maintain** the content and proceed to legal resolution.
+   - At this stage, the complainant will need to provide a valid **court order** for the content to remain locked or permanently removed.
+
+### Notes
+
+- Abuse of the DMCA process (false or malicious claims) may result in suspension of the complainant’s ability to file future claims.
+- Repeated copyright violations by an author may result in account suspension or termination, as required by the DMCA.
+- All DMCA notices and counter-notices must comply with the requirements of **17 U.S.C. § 512**.
+
+**Contact for DMCA Notices**:
+
+- Email: **dmca@writersgrove.net**
+- Mail: Writers Grove, P.O. BOX 222, Brooklyn, MI 49230, USA
+
+```mermaid
+flowchart TD
+    A[DMCA Complaint Received] --> B[Content Locked + Author Notified]
+    B --> C{Author Choice}
+    C -->|Delete| D[Content Removed]
+    C -->|Modify| E[Content Updated]
+    C -->|Contest| F[Counter-Notice Filed]
+    F --> G[Complainant Notified]
+    G --> H{Response in 14 Days?}
+    H -->|No Response| I[Content Reinstated]
+    H -->|Withdraws| I[Content Reinstated]
+    H -->|Continues| J[Author Notified Again]
+    J --> K{Author Final Choice}
+    K -->|Withdraw| D
+    K -->|Maintain| L[Complainant Must Obtain Court Order]
+    L -->|Court Order| D
+    L -->|No Order| I
+```
+
+## 13. Changes to These Terms
 
 We may update these Terms from time to time. Significant changes will be communicated via email or prominent notice on our site. Continued use of the Services after changes means you accept the new Terms.
 
 ---
 
-## 13. Contact Information
+## 14. Contact Information
 
 Writers Grove  
 P.O. BOX 222  
@@ -164,6 +226,9 @@ Brooklyn, MI 49230
 United States
 
 Phone: **1-888-836-5902**  
-Email: **support@writersgrove.net**
+Email: **privacy@writersgrove.net** (privacy/data requests)  
+Email: **billing@writersgrove.net** (billing, payments, referral payouts)  
+Email: **support@writersgrove.net** (general support, refunds, law enforcement contact)  
+Email: **dmca@writersgrove.net** (DMCA notices & counter-notices)
 
 ---
