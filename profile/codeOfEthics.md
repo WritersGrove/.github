@@ -10,6 +10,7 @@ We believe that you, the user, are our customer—not the product. This principl
 - **The Right To Delete**: Unlike some sites we won't name, here you have the ability to delete your data at any time. Deleted data will be permanently removed from our servers after a 30-day grace period.
 - **Simple Delete**: No need to contact support. With a single button click and confirmation you can delete a series, story, chapter, or your whole account. We won't beg you to stay.
 - **Privacy Protection**: We will not sell your information to third parties. We use privacy-focused tools like Plausible.io for analytics and only collect the minimum information necessary to operate our services.
+- **Easy Export**: At any time, you can export your works (e.g., EPUB, PDF, Markdown) to back them up or publish elsewhere.
 
 ## 3. Ethical Use of Technology
 
@@ -40,3 +41,6 @@ We believe that you, the user, are our customer—not the product. This principl
 ## 8. Ethical Business Practices
 
 - **Fair Revenue Model**: We aim to run a sustainable business that supports our small team without resorting to unethical practices. Our revenue comes from ads and paid services, not from exploiting user data.
+- **Referral Fairness**: Our referral program rules are clear and permanent. Referrals cannot be stolen or reassigned, and payouts are honored as promised. We will not retroactively change the deal in ways that disadvantage participants.
+
+---
