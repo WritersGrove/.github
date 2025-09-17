@@ -218,7 +218,17 @@ We may update these Terms from time to time. Significant changes will be communi
 
 ---
 
-## 14. Contact Information
+## 14. Disclosures
+
+To ensure clarity and protect both authors and readers, certain types of content must be clearly disclosed:
+
+- **NSFW Content**: Any content that contains adult themes, sexual material, graphic violence, or otherwise not suitable for all audiences must be clearly marked as **NSFW**. Failure to properly label NSFW content may result in the content being shadow banned or removed.
+
+- **AI-Generated Content**: Any content substantially generated or assisted by artificial intelligence tools must be clearly labeled as **AI-Generated**. Authors are responsible for accurate disclosure. This allows readers to make informed choices about the works they engage with.
+
+Writers Grove reserves the right to take automated moderation action (warnings, shadow bans, or removal) on content that fails to meet these disclosure requirements.
+
+## 15. Contact Information
 
 Writers Grove  
 P.O. BOX 222  
