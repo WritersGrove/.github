@@ -19,6 +19,10 @@ You are the customer, not the product. What this means…
 [Privacy Policy](privacy.md)  
 [Terms of Service](tos.md)
 
+## Platform Documentation
+
+[URL Structure & User Types](platformStructure.md)
+
 ## Team
 
 [Steven Stanton (The Simple Dev)](https://thesimpledev.com)
