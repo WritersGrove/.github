@@ -1,5 +1,7 @@
 # Code of Ethics
 
+**Version 1.0.0**
+
 ## 1. User-Centric Commitment
 
 We believe that you, the user, are our customer—not the product. This principle guides all of our decisions and ensures that your rights and privacy are always prioritized.

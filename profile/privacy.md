@@ -1,5 +1,7 @@
 # Privacy Policy
 
+**Version 1.0.0**
+
 _Last updated: September 16, 2025_
 
 Writers Grove (“we,” “our,” “us”) is committed to protecting your privacy and being transparent about how we collect, use, and share your information.

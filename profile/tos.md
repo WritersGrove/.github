@@ -1,5 +1,7 @@
 # Terms of Service
 
+**Version 1.0.0**
+
 _Last updated: September 16, 2025_
 
 Welcome to Writers Grove. By accessing or using our services (“Services”), you agree to these Terms of Service (“Terms”). Please read them carefully.
@@ -23,6 +25,7 @@ All disputes will be governed by the laws of the State of Michigan, United State
 - You are responsible for maintaining the confidentiality of your account and password.
 - You must be at least **13 years old** to use our Services.
 - We reserve the right to suspend or terminate accounts that violate these Terms.
+- **Email Communications**: Marking legitimate emails from Writers Grove as spam may result in a permanent ban. If you no longer wish to receive emails from us, use the unsubscribe option provided in our emails rather than marking them as spam.
 
 ---
 
